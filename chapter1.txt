@@ -1,1 +1,2 @@
-Hello  Let's see if this works.
+The Adventure Begins
+Once upon a time, a new Git repo was born.
